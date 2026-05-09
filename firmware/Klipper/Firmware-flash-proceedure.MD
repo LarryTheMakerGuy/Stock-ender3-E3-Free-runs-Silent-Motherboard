@@ -6,4 +6,4 @@
 6. Check for the USB device on the print server.
 7. Update printer.cfg [mcu] section with appropriate usb  'path by ID'
 
-#note the print.cfg is configure to work with a BL touch module
+#Note that the print.cfg is configure to work with a BL touch module
