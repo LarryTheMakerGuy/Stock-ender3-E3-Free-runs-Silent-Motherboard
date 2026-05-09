@@ -5,3 +5,5 @@
 5. Insert SD card, turn on the printer, and let it flash for 60 seconds.
 6. Check for the USB device on the print server.
 7. Update printer.cfg [mcu] section with appropriate usb  'path by ID'
+
+#note the print.cfg is configure to work with a BL touch module
